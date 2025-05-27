@@ -26,7 +26,7 @@
 ## 🖤 About Me
 - 🎓 **Computer Science Student**
 - 💻 **I love software development, mobile app development, and problem-solving**
-- 🚀 **Currently learning Java, Flutter, and AI development**
+- 🚀 **Currently learning MERN Stack, Mobile App with flutter and AI development**
 
 ---
 
