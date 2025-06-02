@@ -32,8 +32,13 @@
 
 ## 🌿 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,dart,flutter,python,linux,github,git" width="400px">
+  <img src="https://skillicons.dev/icons?i=java,dart,flutter,python,linux,github,git,mongodb,express,react,nodejs,firebase,mysql" width="800px"><br>
+  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/AdMob-FF0000?style=for-the-badge&logo=googleads&logoColor=white">
+  <img src="https://img.shields.io/badge/CodeCanyon-1C1C1C?style=for-the-badge&logo=envato&logoColor=white">
 </p>
+
 
 ---
 
