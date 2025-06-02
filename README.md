@@ -41,5 +41,6 @@
 <p align="center">
   <a href="https://github.com/OnoPUNPUN"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.facebook.com/share/155WCrxYB9/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="www.linkedin.com/in/wasimul-bari-tonmoy-453307369/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/wasimul-bari-tonmoy-453307369"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.credly.com/users/wasimul-bari-tonmoy"><img src="https://img.shields.io/badge/Credly-00447C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDE0IDE0Ij48cGF0aCBkPSJNMS41IDYuNzY0YTcuMDEyIDcuMDEyIDAgMCAxIDMuMTEtMi4xMjhsMi4zNDYgNS4xMjYgMi4zNDUtNS4xMjZhNy4wMTMgNy4wMTMgMCAwIDEgMy4xMSAyLjEyOCA3LjAxNSA3LjAxNSAwIDAgMS0yLjI4MyAyLjE0Nkw3LjQ1MiAxMy43OCAyLjIwMiA4LjkwNGE3LjAxMyA3LjAxMyAwIDAgMS0yLjI4My0yLjE0NnoiLz48L3N2Zz4=&logoColor=white"></a>
 </p>
