@@ -36,7 +36,7 @@
 
 ---
 
-## 🚀 GitHub Stats (Auto Updates)
+## 🚀 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OnoPUNPUN&show_icons=true&theme=tokyonight" width="400px">
