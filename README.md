@@ -1,36 +1,31 @@
 <p align="center">
-  <img src="Images\EljFA3FXEAARiDp.jpg" width="100%" style="max-height: 250px; object-fit: cover;">
+  <!-- Banner image (image1) -->
+  <img src="Images/EljFA3FXEAARiDp.jpg" width="100%" style="max-height: 250px; object-fit: cover;">
 </p>
 
+<h1 align="center">Hello, I'm Tonmoy!<br>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h1>
 
-<h1 align="center">Hello, I'm Tonmoy! <br><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-
-<!-- Aligning GitHub Stats and Profile Image -->
+<!-- Profile picture (image2), styled as a circle using HTML/CSS -->
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=OnoPUNPUN&show_icons=true&theme=tokyonight" width="400px">
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnoPUNPUN&layout=compact&theme=tokyonight" width="400px">
-      </td>
-      <td align="center">
-        <img src="Images/PUNPUN.jpg" width="200px">
-      </td>
-    </tr>
-  </table>
+  <img src="Images/PUNPUN.jpg" width="160px" height="160px" style="border-radius: 50%; border: 5px solid #333; box-shadow: 0 4px 16px #0002; object-fit: cover;">
 </p>
 
 ---
 
 ## 🖤 About Me
+
+> A full stack developer from Bangladesh
+
 - 🎓 **Computer Science Student**
 - 💻 **I love software development, mobile app development, and problem-solving**
 - 🚀 **Currently learning MERN Stack, Mobile App with flutter and AI development**
 
 ---
 
-## 🌿 Tech Stack
+## 🛠️ My Tech Toolbox
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,dart,flutter,python,linux,github,git,mongodb,express,react,nodejs,firebase,mysql" width="800px"><br>
   <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white">
@@ -39,10 +34,56 @@
   <img src="https://img.shields.io/badge/CodeCanyon-1C1C1C?style=for-the-badge&logo=envato&logoColor=white">
 </p>
 
+---
+
+## 🚀 GitHub Stats (Auto Updates)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OnoPUNPUN&show_icons=true&theme=tokyonight" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnoPUNPUN&layout=compact&theme=tokyonight" width="400px">
+</p>
+
+---
+
+## ⚡ GitHub Streak & Trophy Wall
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OnoPUNPUN&theme=tokyonight" width="400px">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=OnoPUNPUN&theme=tokyonight&column=7" width="100%">
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=OnoPUNPUN&theme=tokyonight&area=true&hide_border=true" width="100%">
+</p>
+
+---
+
+## 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/OnoPUNPUN/expense_tracker">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=expense_tracker&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/OnoPUNPUN/water_tracker">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=water_tracker&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/OnoPUNPUN/WeatherApp">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=WeatherApp&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/OnoPUNPUN/todo_app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=todo_app&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
 ## ☕ Let's Connect
+
 <p align="center">
   <a href="https://github.com/OnoPUNPUN"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.facebook.com/share/155WCrxYB9/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
