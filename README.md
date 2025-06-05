@@ -43,8 +43,8 @@ A passionate developer shaping my path — one commit, one idea at a time.
 ## 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OnoPUNPUN&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnoPUNPUN&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OnoPUNPUN&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="410" height="200" style="display:inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnoPUNPUN&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="410" height="200" style="display:inline-block;"/>
 </p>
 
 ---
