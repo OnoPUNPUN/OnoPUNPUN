@@ -14,13 +14,17 @@
 
 ---
 
-## 🖤 About Me
+## 🧠 About Me
 
-> A full stack developer from Bangladesh
+A passionate developer shaping my path — one commit, one idea at a time.
 
-- 🎓 **Computer Science Student**
-- 💻 **I love software development, mobile app development, and problem-solving**
-- 🚀 **Currently learning MERN Stack, Mobile App with flutter and AI development**
+- 👨‍🎓 CSE, 4th Semester @ AIUB
+- 📱 Building apps, tools & smooth UIs with love
+- 🤝 Collaborating on full-stack projects with awesome teammates
+- 💙 I code in Flutter, Dart, Java, and exploring JavaScript
+- 🌍 Based in Dhaka, dreaming beyond borders
+- ☕ Fueled by caffeine and curiosity
+- 🚀 Goal: Craft meaningful, beautiful software that solves real problems
 
 ---
 
