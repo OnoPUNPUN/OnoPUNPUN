@@ -45,11 +45,21 @@ A passionate developer shaping my path — one commit, one idea at a time.
 <p align="center">
   <table>
     <tr>
-      <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=OnoPUNPUN&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="370" height="180"/>
+      <td width="50%" align="center" valign="top" style="background:#212332;border-radius:14px;border:1px solid #fff2;padding:16px;">
+        <div align="left" style="color:#fb6580; font-size:1.2em; font-weight:bold;">Tonmoy's GitHub Stats</div>
+        <ul style="list-style:none; padding:0; margin:16px 0 0 0; color:#fff;">
+          <li>⭐ <b>Total Stars Earned:</b> <span id="stars" style="float:right;">0</span></li>
+          <li>⏲️ <b>Total Commits (2025):</b> <span id="commits" style="float:right;">{YOUR_COMMITS}</span></li>
+          <li>🔔 <b>Total Issues:</b> <span id="issues" style="float:right;">0</span></li>
+          <li>📅 <b>Contributed to (last year):</b> <span id="contrib" style="float:right;">0</span></li>
+        </ul>
+        <div align="right" style="margin-top:-60px;">
+          <img src="https://github-readme-stats.vercel.app/api?username=OnoPUNPUN&show_icons=true&theme=tokyonight&hide_rank=true&hide=prs,issues,contribs&count_private=true&line_height=24" width="120" height="120"/>
+        </div>
       </td>
-      <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnoPUNPUN&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="370" height="180"/>
+      <td width="50%" align="center" valign="top" style="background:#212332;border-radius:14px;border:1px solid #fff2;padding:16px;">
+        <div align="left" style="color:#fb6580; font-size:1.2em; font-weight:bold;">Most Used Languages</div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnoPUNPUN&layout=compact&theme=tokyonight&hide_border=true&card_width=320" width="320" />
       </td>
     </tr>
   </table>
