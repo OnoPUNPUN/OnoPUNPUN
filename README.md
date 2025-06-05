@@ -48,7 +48,7 @@
 ## ⚡ GitHub Streak & Trophy Wall
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OnoPUNPUN&theme=tokyonight" width="400px">
+  <img src="https://streak-stats.demolab.com/?user=OnoPUNPUN&theme=tokyonight" width="400px">
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=OnoPUNPUN&theme=tokyonight&column=7" width="100%">
 </p>
@@ -58,7 +58,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=OnoPUNPUN&theme=tokyonight&area=true&hide_border=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OnoPUNPUN&theme=tokyonight&area=true&hide_border=true" width="100%">
 </p>
 
 ---
