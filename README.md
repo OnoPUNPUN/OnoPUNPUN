@@ -76,7 +76,7 @@ A passionate developer shaping my path — one commit, one idea at a time.
   <a href="https://github.com/OnoPUNPUN/water_tracker">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=water_tracker&theme=tokyonight" />
   </a>
-  <a href="https://github.com/OnoPUNPUN/WeatherApp">
+  <a href="https://github.com/OnoPUNPUN/shopping_app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=WeatherApp&theme=tokyonight" />
   </a>
   <a href="https://github.com/OnoPUNPUN/todo_app">
