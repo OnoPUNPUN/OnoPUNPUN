@@ -77,7 +77,7 @@ A passionate developer shaping my path — one commit, one idea at a time.
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=water_tracker&theme=tokyonight" />
   </a>
   <a href="https://github.com/OnoPUNPUN/shopping_app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=WeatherApp&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=shopping_app&theme=tokyonight" />
   </a>
   <a href="https://github.com/OnoPUNPUN/todo_app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=todo_app&theme=tokyonight" />
