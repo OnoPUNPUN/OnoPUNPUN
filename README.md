@@ -1,143 +1,162 @@
-# 🪶 Tonmoy, a Wanderer in Code
+# 👋 Hello, I'm Tonmoy!
 
 <div align="center">
-  <!-- Punpun-inspired banner with somber manga tones -->
-  <img src="Images/EljFA3FXEAARiDp.jpg" width="100%" style="max-height: 260px; object-fit: cover; border-radius: 8px; filter: grayscale(0.5) contrast(1.3) brightness(0.8); border: 3px solid #0f0f0f; box-shadow: 0 0 15px rgba(0,0,0,0.8);" alt="Punpun Banner">
+  <!-- Banner with manga aesthetic -->
+  <img src="Images/EljFA3FXEAARiDp.jpg" width="100%" style="max-height: 300px; object-fit: cover; border-radius: 15px; filter: contrast(1.1) brightness(0.9);" alt="Banner">
   
+  <!-- Animated greeting with manga style -->
   <br><br>
   
-  <!-- Manga-style typing effect with Punpun's introspective vibe -->
+  <!-- Profile picture with Punpun-style border -->
+  <br><br>
+  <img src="Images/PUNPUN.jpg" width="180px" height="180px" style="border-radius: 50%; border: 4px solid #2d2d2d; box-shadow: 0 0 30px rgba(0,0,0,0.5), inset 0 0 30px rgba(255,255,255,0.1); object-fit: cover; filter: contrast(1.1);" alt="Profile Picture">
+  
+  <!-- Manga-style typing effect -->
+  <br><br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Sketching+Code+Like+Punpun's+Dreams;Full+Stack+Storyteller;Crafting+Apps+With+Soul;Chasing+Stars+Through+Code;Forever+Learning,+Forever+Lost&font=Anime%20Ace¢er=true&width=520&height=80&color=9ca3af&vCenter=true&size=24&duration=4000&pause=600" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Mobile+App+Enthusiast;Dreamer+Like+Punpun;Always+Learning+New+Things;Building+Tomorrow's+Apps&font=Fira%20Code&center=true&width=450&height=60&color=6b7280&vCenter=true&size=20&duration=3000&pause=1000" alt="Typing SVG">
   </a>
   
-  <!-- Profile picture with a Punpun-esque bird silhouette border -->
-  <br>
-  <img src="Images/PUNPUN.jpg" width="220px" height="220px" style="border-radius: 50%; border: 6px solid #0f0f0f; box-shadow: 0 0 25px rgba(0,0,0,0.9), inset 0 0 12px rgba(255,255,255,0.15); object-fit: cover; filter: contrast(1.2) grayscale(0.3);" alt="Punpun Avatar">
-  
-  <!-- Profile views with a manga panel aesthetic -->
+  <!-- Profile views with manga styling -->
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=OnoPUNPUN&label=Visitors+to+My+Story&color=0f0f0f&style=flat-square" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/OnoPUNPUN?label=Kindred+Souls&style=flat-square&color=0f0f0f" alt="Followers">
+  <img src="https://komarev.com/ghpvc/?username=OnoPUNPUN&label=Profile%20Views&color=4a5568&style=flat-square" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/OnoPUNPUN?label=Followers&style=flat-square&color=4a5568" alt="Followers">
 </div>
 
 ---
 
-## 🌙 Beneath the Starless Sky
+## 🖤 About Me
 
-<img align="right" alt="Punpun's Melancholy" width="300" src="https://github.com/OnoPUNPUN/OnoPUNPUN/raw/main/Images/196074.gif" style="border-radius: 10px; opacity: 0.92; filter: grayscale(0.6); border: 2px solid #0f0f0f;">
+<img align="right" alt="Punpun Aesthetic" width="350" src="https://github.com/OnoPUNPUN/OnoPUNPUN/raw/main/Images/196074.gif" style="border-radius: 15px; opacity: 0.9;">
 
-*"Each line of code is a fleeting thought in Punpun's heart..."*
+*"Even in the darkest code, there's always a bug to fix..."*
 
-A developer lost in the panels of life, drawing stories through code.
+A passionate developer shaping my path — one commit, one idea at a time.
 
-- 📱 **Weaving apps** with the fragility of a manga moment
-- 🤝 **Collaborating** to paint shared dreams in code
-- 💙 **I breathe in** Flutter, Dart, Java, and whispers of JavaScript
-- 🌍 **Rooted in** Dhaka, yet adrift in a boundless sky
-- ☕ **Fueled by** coffee and the weight of quiet thoughts
-- 🚀 **Aspiration:** To craft software as poignant as Punpun's tale
+- 📱 **Building apps, tools & smooth UIs** with love
+- 🤝 **Collaborating** on full-stack projects with awesome teammates  
+- 💙 **I code in** Flutter, Dart, Java, and exploring JavaScript
+- 🌍 **Based in** Dhaka, dreaming beyond borders
+- ☕ **Fueled by** caffeine and existential thoughts
+- 🚀 **Goal:** Craft meaningful, beautiful software that solves real problems
 
-### 🖤 My Current Chapter
+### 🎯 Current Focus
 ```
-🌌 Sculpting Flutter apps with heart
-🌌 Venturing into React Native and Node.js
-🌌 Seeking open-source stories to join
-🌌 Ask me about Flutter, Dart, or mobile dreams
-🌌 Fun fact: My bugs are my silent co-authors
+📍 Working on Flutter mobile applications
+📍 Learning React Native and Node.js  
+📍 Looking to collaborate on Open Source Projects
+📍 Ask me about Flutter, Dart, Mobile Development
+📍 Fun fact: I think I'm funny but I'm probably not
 ```
 
 ---
 
-## ✍️ Tools of My Craft
+## 🛠️ My Tech Arsenal
 
 <div align="center">
 
-### 📚 Languages & Frameworks
+### 💻 Languages & Frameworks
 <img src="https://skillicons.dev/icons?i=java,dart,flutter,python,javascript,react,nodejs&theme=dark" alt="Languages & Frameworks">
 
-### 🛠️ Instruments of Creation
+### 🔧 Tools & Technologies  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,firebase,mongodb,mysql,express&theme=dark" alt="Tools & Technologies">
 
-### 🎨 Strokes of Skill
-<img src="https://img.shields.io/badge/REST%20API-0f0f0f?style=for-the-badge&logo=api&logoColor=white" alt="REST API">
-<img src="https://img.shields.io/badge/SQLite-0f0f0f?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-<img src="https://img.shields.io/badge/AdMob-0f0f0f?style=for-the-badge&logo=googleads&logoColor=white" alt="AdMob">
-<img src="https://img.shields.io/badge/CodeCanyon-0f0f0f?style=for-the-badge&logo=envato&logoColor=white" alt="CodeCanyon">
+### 🎨 Additional Skills
+<img src="https://img.shields.io/badge/REST%20API-2d2d2d?style=for-the-badge&logo=api&logoColor=white" alt="REST API">
+<img src="https://img.shields.io/badge/SQLite-2d2d2d?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+<img src="https://img.shields.io/badge/AdMob-2d2d2d?style=for-the-badge&logo=googleads&logoColor=white" alt="AdMob">
+<img src="https://img.shields.io/badge/CodeCanyon-2d2d2d?style=for-the-badge&logo=envato&logoColor=white" alt="CodeCanyon">
 
 </div>
 
 ---
 
-## 📘 My Tale in Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OnoPUNPUN&show_icons=true&theme=transparent&hide_border=true&border_radius=10&count_private=true&bg_color=0d1117&text_color=9ca3af&icon_color=6b7280&title_color=ffffff" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnoPUNPUN&layout=compact&theme=transparent&hide_border=true&border_radius=10&langs_count=8&bg_color=0d1117&text_color=9ca3af&title_color=ffffff" alt="Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OnoPUNPUN&show_icons=true&theme=dark&hide_border=true&border_radius=15&count_private=true&bg_color=0d1117&text_color=8b949e&icon_color=6b7280&title_color=f0f6fc" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnoPUNPUN&layout=compact&theme=dark&hide_border=true&border_radius=15&langs_count=8&bg_color=0d1117&text_color=8b949e&title_color=f0f6fc" alt="Top Languages">
 </div>
 
-### 🌌 A Manga of Commits
+### 📈 The Journey Continues...
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OnoPUNPUN&theme=github-dark&area=true&hide_border=true&custom_title=Pages+of+My+Journey&bg_color=0d1117&color=9ca3af&line=6b7280&point=ffffff" width="100%" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OnoPUNPUN&theme=github-compact&area=true&hide_border=true&custom_title=My%20Coding%20Journey" width="100%" alt="Activity Graph">
 </div>
 
 ---
 
-## 🌟 Sketches of My Soul
+## 🔥 GitHub Streak & Achievements
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OnoPUNPUN&theme=dark&hide_border=true&border_radius=15" alt="GitHub Streak">
+  
+  <br><br>
+  
+  <!-- Manga-style divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
+  
+  <br>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=OnoPUNPUN&theme=darkhub&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies">
+</div>
+
+---
+
+## 🌟 Featured Projects
 
 <div align="center">
   <a href="https://github.com/OnoPUNPUN/expense_tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=expense_tracker&theme=transparent&border_radius=10&hide_border=true&bg_color=0d1117&text_color=9ca3af&title_color=ffffff" alt="Expense Tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=expense_tracker&theme=dark&border_radius=15&hide_border=true&bg_color=0d1117&text_color=8b949e&title_color=f0f6fc" alt="Expense Tracker">
   </a>
   <a href="https://github.com/OnoPUNPUN/PassSafe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=PassSafe&theme=transparent&border_radius=10&hide_border=true&bg_color=0d1117&text_color=9ca3af&title_color=ffffff" alt="PassSafe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=PassSafe&theme=dark&border_radius=15&hide_border=true&bg_color=0d1117&text_color=8b949e&title_color=f0f6fc" alt="PassSafe">
   </a>
   <a href="https://github.com/OnoPUNPUN/shopping_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=shopping_app&theme=transparent&border_radius=10&hide_border=true&bg_color=0d1117&text_color=9ca3af&title_color=ffffff" alt="Shopping App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=shopping_app&theme=dark&border_radius=15&hide_border=true&bg_color=0d1117&text_color=8b949e&title_color=f0f6fc" alt="Shopping App">
   </a>
   <a href="https://github.com/OnoPUNPUN/todo_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=todo_app&theme=transparent&border_radius=10&hide_border=true&bg_color=0d1117&text_color=9ca3af&title_color=ffffff" alt="Todo App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=todo_app&theme=dark&border_radius=15&hide_border=true&bg_color=0d1117&text_color=8b949e&title_color=f0f6fc" alt="Todo App">
   </a>
 </div>
 
 ---
 
-## 🌃 Find Me in the Night
+## 🌐 Connect With Me
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
   <br><br>
   
   <a href="https://github.com/OnoPUNPUN">
-    <img src="https://img.shields.io/badge/GitHub-0f0f0f?style=for-the-badge&logo=github&logoColor=white&border_radius=10" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-2d2d2d?style=for-the-badge&logo=github&logoColor=white&border_radius=15" alt="GitHub">
   </a>
   <a href="https://www.facebook.com/share/155WCrxYB9/">
-    <img src="https://img.shields.io/badge/Facebook-0f0f0f?style=for-the-badge&logo=facebook&logoColor=white&border_radius=10" alt="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-2d2d2d?style=for-the-badge&logo=facebook&logoColor=white&border_radius=15" alt="Facebook">
   </a>
   <a href="https://www.linkedin.com/in/wasimul-bari-tonmoy-453307369">
-    <img src="https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=15" alt="LinkedIn">
   </a>
   <a href="https://www.credly.com/users/wasimul-bari-tonmoy">
-    <img src="https://img.shields.io/badge/Credly-0f0f0f?style=for-the-badge&logo=credly&logoColor=white&border_radius=10" alt="Credly">
+    <img src="https://img.shields.io/badge/Credly-2d2d2d?style=for-the-badge&logo=credly&logoColor=white&border_radius=15" alt="Credly">
   </a>
 </div>
 
 ---
 
-## 💭 A Whispered Thought
+## 💭 Daily Wisdom
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote=Life%20is%20a%20manga%20we%20draw%20with%20every%20breath&author=Inspired%20by%20Punpun&bg_color=0d1117&text_color=9ca3af&border_color=0f0f0f" alt="Quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs" alt="Quote">
 </div>
 
 ---
 
-## 🪶 Fragments of My Mind
+## 📝 Latest Thoughts
 ```
-🌙 My code dances in the shadows of Punpun's world...
-🎯 Debugging existence, one line at a time
-🚀 Crafting apps that carry a piece of my soul
-💭 "Every app is a story, every bug a lesson"
+🌙 Sometimes I wonder if my code dreams about electric sheep...
+🎯 Currently debugging life, one console.log at a time
+🚀 Building the future, one Flutter widget at a time
+💭 "In the end, we're all just trying to make something beautiful"
 ```
 
 ---
@@ -146,9 +165,9 @@ A developer lost in the panels of life, drawing stories through code.
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
   <br>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=90§ion=footer&text=See%20You%20Under%20the%20Stars&fontSize=16&fontColor=9ca3af&animation=twinkling" alt="Footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2d2d2d&height=100&section=footer&text=Thanks%20for%20visiting&fontSize=20&fontColor=8b949e&animation=twinkling" alt="Footer">
   
   <br>
   
-  <i>🪶 From <a href="https://github.com/OnoPUNPUN">OnoPUNPUN</a> with a silent wish 🖤</i>
+  <i>⭐️ From <a href="https://github.com/OnoPUNPUN">OnoPUNPUN</a> with 🖤</i>
 </div>
