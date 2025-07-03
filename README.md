@@ -4,9 +4,6 @@
   <!-- Banner with manga aesthetic -->
   <img src="Images/EljFA3FXEAARiDp.jpg" width="100%" style="max-height: 300px; object-fit: cover; border-radius: 15px; filter: contrast(1.1) brightness(0.9);" alt="Banner">
   
-  <!-- Animated greeting with manga style -->
-  <br><br>
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" alt="Hi">
   
   <!-- Profile picture with Punpun-style border -->
   <br><br>
