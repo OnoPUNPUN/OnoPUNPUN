@@ -1,88 +1,85 @@
 # 👋 Hello, I'm Tonmoy!
 
 <div align="center">
-  <!-- Banner with manga aesthetic -->
-  <img src="Images/EljFA3FXEAARiDp.jpg" width="100%" style="max-height: 300px; object-fit: cover; border-radius: 15px; filter: contrast(1.1) brightness(0.9);" alt="Banner">
+  <!-- Banner image -->
+  <img src="Images/EljFA3FXEAARiDp.jpg" width="100%" style="max-height: 300px; object-fit: cover; border-radius: 15px;" alt="Banner">
   
-  <!-- Animated greeting with manga style -->
-  <br><br>
+  <!-- Animated greeting -->
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" alt="Hi">
   
-  <!-- Profile picture with Punpun-style border -->
+  <!-- Profile picture -->
   <br><br>
-  <img src="Images/PUNPUN.jpg" width="180px" height="180px" style="border-radius: 50%; border: 4px solid #2d2d2d; box-shadow: 0 0 30px rgba(0,0,0,0.5), inset 0 0 30px rgba(255,255,255,0.1); object-fit: cover; filter: contrast(1.1);" alt="Profile Picture">
+  <img src="Images/PUNPUN.jpg" width="180px" height="180px" style="border-radius: 50%; border: 6px solid #7c3aed; box-shadow: 0 8px 32px rgba(124, 58, 237, 0.3); object-fit: cover;" alt="Profile Picture">
   
-  <!-- Manga-style typing effect -->
+  <!-- Dynamic typing effect -->
   <br><br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Mobile+App+Enthusiast;Dreamer+Like+Punpun;Always+Learning+New+Things;Building+Tomorrow's+Apps&font=Fira%20Code&center=true&width=450&height=60&color=6b7280&vCenter=true&size=20&duration=3000&pause=1000" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Mobile+App+Enthusiast;Problem+Solver;Always+Learning+New+Things&font=Fira%20Code&center=true&width=380&height=50&color=7c3aed&vCenter=true&size=22" alt="Typing SVG">
   </a>
   
-  <!-- Profile views with manga styling -->
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=OnoPUNPUN&label=Profile%20Views&color=4a5568&style=flat-square" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/OnoPUNPUN?label=Followers&style=flat-square&color=4a5568" alt="Followers">
+  <!-- Profile views counter -->
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=OnoPUNPUN&label=Profile%20views&color=7c3aed&style=flat" alt="Profile Views">
 </div>
 
 ---
 
-## 🖤 About Me
+## 🧠 About Me
 
-<img align="right" alt="Aesthetic Coding" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="border-radius: 15px; opacity: 0.9;">
-
-*"Even in the darkest code, there's always a bug to fix..."*
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 A passionate developer shaping my path — one commit, one idea at a time.
 
-- 👨‍🎓 **CSE, 4th Semester** @ AIUB
+- 👨‍🎓 **CSE, 5th Semester** @ AIUB
 - 📱 **Building apps, tools & smooth UIs** with love
-- 🤝 **Collaborating** on full-stack projects with awesome teammates  
+- 🤝 **Collaborating** on full-stack projects with awesome teammates
 - 💙 **I code in** Flutter, Dart, Java, and exploring JavaScript
 - 🌍 **Based in** Dhaka, dreaming beyond borders
-- ☕ **Fueled by** caffeine and existential thoughts
+- ☕ **Fueled by** caffeine and curiosity
 - 🚀 **Goal:** Craft meaningful, beautiful software that solves real problems
 
 ### 🎯 Current Focus
-```
-📍 Working on Flutter mobile applications
-📍 Learning React Native and Node.js  
-📍 Looking to collaborate on Open Source Projects
-📍 Ask me about Flutter, Dart, Mobile Development
-📍 Fun fact: I think I'm funny but I'm probably not
-```
+- 🔭 Working on **Flutter mobile applications**
+- 🌱 Learning **React Native** and **Node.js**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Flutter, Dart, Mobile Development**
+- 📫 How to reach me: **Check the connect section below**
+- ⚡ Fun fact: **I think I'm funny but I'm probably not**
 
 ---
 
-## 🛠️ My Tech Arsenal
+## 🛠️ My Tech Toolbox
 
-<div align="center">
+### Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,dart,flutter,python,javascript,react,nodejs" alt="Languages & Frameworks">
+</p>
 
-### 💻 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=java,dart,flutter,python,javascript,react,nodejs&theme=dark" alt="Languages & Frameworks">
+### Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,firebase,mongodb,mysql,express" alt="Tools & Technologies">
+</p>
 
-### 🔧 Tools & Technologies  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,firebase,mongodb,mysql,express&theme=dark" alt="Tools & Technologies">
-
-### 🎨 Additional Skills
-<img src="https://img.shields.io/badge/REST%20API-2d2d2d?style=for-the-badge&logo=api&logoColor=white" alt="REST API">
-<img src="https://img.shields.io/badge/SQLite-2d2d2d?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-<img src="https://img.shields.io/badge/AdMob-2d2d2d?style=for-the-badge&logo=googleads&logoColor=white" alt="AdMob">
-<img src="https://img.shields.io/badge/CodeCanyon-2d2d2d?style=for-the-badge&logo=envato&logoColor=white" alt="CodeCanyon">
-
-</div>
+### Additional Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white" alt="REST API">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/AdMob-FF0000?style=for-the-badge&logo=googleads&logoColor=white" alt="AdMob">
+  <img src="https://img.shields.io/badge/CodeCanyon-1C1C1C?style=for-the-badge&logo=envato&logoColor=white" alt="CodeCanyon">
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OnoPUNPUN&show_icons=true&theme=dark&hide_border=true&border_radius=15&count_private=true&bg_color=0d1117&text_color=8b949e&icon_color=6b7280&title_color=f0f6fc" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnoPUNPUN&layout=compact&theme=dark&hide_border=true&border_radius=15&langs_count=8&bg_color=0d1117&text_color=8b949e&title_color=f0f6fc" alt="Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OnoPUNPUN&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnoPUNPUN&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" alt="Top Languages">
 </div>
 
-### 📈 The Journey Continues...
+### 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OnoPUNPUN&theme=github-compact&area=true&hide_border=true&custom_title=My%20Coding%20Journey" width="100%" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OnoPUNPUN&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph">
 </div>
 
 ---
@@ -90,16 +87,9 @@ A passionate developer shaping my path — one commit, one idea at a time.
 ## 🔥 GitHub Streak & Achievements
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OnoPUNPUN&theme=dark&hide_border=true&border_radius=15&background=0d1117&ring=6b7280&fire=6b7280&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=f0f6fc&sideNums=f0f6fc&dates=8b949e" alt="GitHub Streak">
-  
+  <img src="https://streak-stats.demolab.com/?user=OnoPUNPUN&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak">
   <br><br>
-  
-  <!-- Manga-style divider -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-  
-  <br>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=OnoPUNPUN&theme=darkhub&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=OnoPUNPUN&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </div>
 
 ---
@@ -108,17 +98,27 @@ A passionate developer shaping my path — one commit, one idea at a time.
 
 <div align="center">
   <a href="https://github.com/OnoPUNPUN/expense_tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=expense_tracker&theme=dark&border_radius=15&hide_border=true&bg_color=0d1117&text_color=8b949e&title_color=f0f6fc" alt="Expense Tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=expense_tracker&theme=tokyonight&border_radius=15" alt="Expense Tracker">
   </a>
   <a href="https://github.com/OnoPUNPUN/PassSafe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=PassSafe&theme=dark&border_radius=15&hide_border=true&bg_color=0d1117&text_color=8b949e&title_color=f0f6fc" alt="PassSafe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=PassSafe&theme=tokyonight&border_radius=15" alt="PassSafe">
   </a>
   <a href="https://github.com/OnoPUNPUN/shopping_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=shopping_app&theme=dark&border_radius=15&hide_border=true&bg_color=0d1117&text_color=8b949e&title_color=f0f6fc" alt="Shopping App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=shopping_app&theme=tokyonight&border_radius=15" alt="Shopping App">
   </a>
   <a href="https://github.com/OnoPUNPUN/todo_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=todo_app&theme=dark&border_radius=15&hide_border=true&bg_color=0d1117&text_color=8b949e&title_color=f0f6fc" alt="Todo App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=todo_app&theme=tokyonight&border_radius=15" alt="Todo App">
   </a>
+</div>
+
+---
+
+## 💼 Experience & Certifications
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Mobile%20Development-2%20Years-brightgreen?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Development">
+  <img src="https://img.shields.io/badge/Flutter-Advanced-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Full%20Stack-Learning-orange?style=for-the-badge&logo=javascript&logoColor=white" alt="Full Stack">
 </div>
 
 ---
@@ -126,50 +126,50 @@ A passionate developer shaping my path — one commit, one idea at a time.
 ## 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-  <br><br>
-  
   <a href="https://github.com/OnoPUNPUN">
-    <img src="https://img.shields.io/badge/GitHub-2d2d2d?style=for-the-badge&logo=github&logoColor=white&border_radius=15" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.facebook.com/share/155WCrxYB9/">
-    <img src="https://img.shields.io/badge/Facebook-2d2d2d?style=for-the-badge&logo=facebook&logoColor=white&border_radius=15" alt="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://www.linkedin.com/in/wasimul-bari-tonmoy-453307369">
-    <img src="https://img.shields.io/badge/LinkedIn-2d2d2d?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=15" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.credly.com/users/wasimul-bari-tonmoy">
-    <img src="https://img.shields.io/badge/Credly-2d2d2d?style=for-the-badge&logo=credly&logoColor=white&border_radius=15" alt="Credly">
+    <img src="https://img.shields.io/badge/Credly-00447C?style=for-the-badge&logo=credly&logoColor=white" alt="Credly">
   </a>
 </div>
 
 ---
 
-## 💭 Daily Wisdom
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🎵 Currently Listening To
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs" alt="Quote">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31l26yvlaogbhpkj6rqmstqfkmvq&count=1" alt="Spotify">
 </div>
 
 ---
 
-## 📝 Latest Thoughts
-```
-🌙 Sometimes I wonder if my code dreams about electric sheep...
-🎯 Currently debugging life, one console.log at a time
-🚀 Building the future, one Flutter widget at a time
-💭 "In the end, we're all just trying to make something beautiful"
-```
+## 💡 Random Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote">
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-  <br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2d2d2d&height=100&section=footer&text=Thanks%20for%20visiting&fontSize=20&fontColor=8b949e&animation=twinkling" alt="Footer">
-  
-  <br>
-  
-  <i>⭐️ From <a href="https://github.com/OnoPUNPUN">OnoPUNPUN</a> with 🖤</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Have%20a%20great%20day!&descAlignY=51&descAlign=center" alt="Footer">
+</div>
+
+---
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/OnoPUNPUN">OnoPUNPUN</a></i>
 </div>
