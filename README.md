@@ -6,7 +6,6 @@
   
   <!-- Animated greeting with manga style -->
   <br><br>
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" alt="Hi">
   
   <!-- Profile picture with Punpun-style border -->
   <br><br>
