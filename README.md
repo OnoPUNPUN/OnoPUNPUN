@@ -4,17 +4,14 @@
   <!-- Banner with manga aesthetic -->
   <img src="Images/EljFA3FXEAARiDp.jpg" width="100%" style="max-height: 300px; object-fit: cover; border-radius: 15px; filter: contrast(1.1) brightness(0.9);" alt="Banner">
   
-  <!-- Animated greeting with manga style -->
   <!-- Manga-style typing effect -->
-  <br><br>
+  <br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Mobile+App+Enthusiast;Dreamer+Like+Punpun;Always+Learning+New+Things;Building+Tomorrow's+Apps&font=Fira%20Code&center=true&width=450&height=60&color=6b7280&vCenter=true&size=20&duration=3000&pause=1000" alt="Typing SVG">
   </a>
   
   <!-- Profile picture with Punpun-style border -->
   <br><br>
-  
-  
   <img src="Images/PUNPUN.jpg" width="180px" height="180px" style="border-radius: 50%; border: 4px solid #2d2d2d; box-shadow: 0 0 30px rgba(0,0,0,0.5), inset 0 0 30px rgba(255,255,255,0.1); object-fit: cover; filter: contrast(1.1);" alt="Profile Picture">
   
   
