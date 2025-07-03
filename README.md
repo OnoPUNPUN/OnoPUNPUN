@@ -4,6 +4,9 @@
   <!-- Banner with manga aesthetic -->
   <img src="Images/EljFA3FXEAARiDp.jpg" width="100%" style="max-height: 300px; object-fit: cover; border-radius: 15px; filter: contrast(1.1) brightness(0.9);" alt="Banner">
   
+  <!-- Animated greeting with manga style -->
+  <br><br>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" alt="Hi">
   
   <!-- Profile picture with Punpun-style border -->
   <br><br>
@@ -25,12 +28,13 @@
 
 ## 🖤 About Me
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="border-radius: 15px; opacity: 0.8;">
+<img align="right" alt="Aesthetic Coding" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="border-radius: 15px; opacity: 0.9;">
 
 *"Even in the darkest code, there's always a bug to fix..."*
 
 A passionate developer shaping my path — one commit, one idea at a time.
 
+- 👨‍🎓 **CSE, 4th Semester** @ AIUB
 - 📱 **Building apps, tools & smooth UIs** with love
 - 🤝 **Collaborating** on full-stack projects with awesome teammates  
 - 💙 **I code in** Flutter, Dart, Java, and exploring JavaScript
@@ -86,7 +90,7 @@ A passionate developer shaping my path — one commit, one idea at a time.
 ## 🔥 GitHub Streak & Achievements
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=OnoPUNPUN&theme=dark&hide_border=true&border_radius=15&background=0d1117&ring=6b7280&fire=6b7280&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=f0f6fc&sideNums=f0f6fc&dates=8b949e" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OnoPUNPUN&theme=dark&hide_border=true&border_radius=15&background=0d1117&ring=6b7280&fire=6b7280&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=f0f6fc&sideNums=f0f6fc&dates=8b949e" alt="GitHub Streak">
   
   <br><br>
   
