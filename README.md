@@ -33,7 +33,6 @@
 
 A passionate developer shaping my path — one commit, one idea at a time.
 
-- 👨‍🎓 **CSE, 4th Semester** @ AIUB
 - 📱 **Building apps, tools & smooth UIs** with love
 - 🤝 **Collaborating** on full-stack projects with awesome teammates  
 - 💙 **I code in** Flutter, Dart, Java, and exploring JavaScript
