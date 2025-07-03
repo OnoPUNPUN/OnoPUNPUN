@@ -28,7 +28,7 @@
 
 ## 🖤 About Me
 
-<img align="right" alt="Punpun Aesthetic" width="350" src="https://raw.githubusercontent.com/OnoPUNPUN/OnoPUNPUN/main/Images/196074.gif?v=1" style="border-radius: 15px; opacity: 0.9;">
+<img align="right" alt="Punpun Aesthetic" width="350" src="https://github.com/OnoPUNPUN/OnoPUNPUN/raw/main/Images/196074.gif" style="border-radius: 15px; opacity: 0.9;">
 
 *"Even in the darkest code, there's always a bug to fix..."*
 
@@ -90,7 +90,7 @@ A passionate developer shaping my path — one commit, one idea at a time.
 ## 🔥 GitHub Streak & Achievements
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=OnoPUNPUN&theme=github-dark-blue&hide_border=true&border_radius=15" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OnoPUNPUN&theme=dark&hide_border=true&border_radius=15" alt="GitHub Streak">
   
   <br><br>
   
