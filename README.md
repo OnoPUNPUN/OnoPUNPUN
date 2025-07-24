@@ -104,6 +104,9 @@ A passionate developer shaping my path — one commit, one idea at a time.
 ## 🌟 Featured Projects
 
 <div align="center">
+  <a href="https://github.com/OnoPUNPUN/Task-Manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=Task-Manager&theme=dark&border_radius=15&hide_border=true&bg_color=0d1117&text_color=8b949e&title_color=f0f6fc" alt="Task Manager">
+  </a>
   <a href="https://github.com/OnoPUNPUN/expense_tracker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=expense_tracker&theme=dark&border_radius=15&hide_border=true&bg_color=0d1117&text_color=8b949e&title_color=f0f6fc" alt="Expense Tracker">
   </a>
@@ -112,9 +115,6 @@ A passionate developer shaping my path — one commit, one idea at a time.
   </a>
   <a href="https://github.com/OnoPUNPUN/shopping_app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=shopping_app&theme=dark&border_radius=15&hide_border=true&bg_color=0d1117&text_color=8b949e&title_color=f0f6fc" alt="Shopping App">
-  </a>
-  <a href="https://github.com/OnoPUNPUN/todo_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=todo_app&theme=dark&border_radius=15&hide_border=true&bg_color=0d1117&text_color=8b949e&title_color=f0f6fc" alt="Todo App">
   </a>
 </div>
 
