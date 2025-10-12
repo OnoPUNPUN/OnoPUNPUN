@@ -101,25 +101,6 @@ A passionate developer shaping my path — one commit, one idea at a time.
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/OnoPUNPUN/Task-Manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=Task-Manager&theme=dark&border_radius=15&hide_border=true&bg_color=0d1117&text_color=8b949e&title_color=f0f6fc" alt="Task Manager">
-  </a>
-  <a href="https://github.com/OnoPUNPUN/chat_app.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=chat_app&theme=dark&border_radius=15&hide_border=true&bg_color=0d1117&text_color=8b949e&title_color=f0f6fc" alt="Chat App">
-  </a>
-  <a href="https://github.com/OnoPUNPUN/PassSafe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=PassSafe&theme=dark&border_radius=15&hide_border=true&bg_color=0d1117&text_color=8b949e&title_color=f0f6fc" alt="PassSafe">
-  </a>
-  <a href="https://github.com/OnoPUNPUN/shopping_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OnoPUNPUN&repo=shopping_app&theme=dark&border_radius=15&hide_border=true&bg_color=0d1117&text_color=8b949e&title_color=f0f6fc" alt="Shopping App">
-  </a>
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
