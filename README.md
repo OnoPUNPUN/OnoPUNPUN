@@ -149,5 +149,5 @@ A passionate developer shaping my path — one commit, one idea at a time.
   
   <br>
   
-  <i>⭐️ From <a href="https://github.com/OnoPUNPUN">OnoPUNPUN</a> with 🖤</i>
+  <i>⭐️ From <a href="https://github.com/OnoPUNPUN">OnoPUNPUN</a> </i>
 </div>
