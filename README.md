@@ -55,7 +55,7 @@ A passionate developer shaping my path — one commit, one idea at a time.
 <div align="center">
 
 ### 💻 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=java,dart,flutter,python,javascript,react,nodejs&theme=dark" alt="Languages & Frameworks">
+<img src="https://skillicons.dev/icons?i=java,dart,flutter,python&theme=dark" alt="Languages & Frameworks">
 
 ### 🔧 Tools & Technologies  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,firebase,mongodb,mysql,express&theme=dark" alt="Tools & Technologies">
