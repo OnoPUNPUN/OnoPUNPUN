@@ -77,11 +77,6 @@ A passionate developer shaping my path — one commit, one idea at a time.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnoPUNPUN&layout=compact&theme=dark&hide_border=true&border_radius=15&langs_count=8&bg_color=0d1117&text_color=8b949e&title_color=f0f6fc" alt="Top Languages">
 </div>
 
-### 📈 The Journey Continues...
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OnoPUNPUN&theme=github-compact&area=true&hide_border=true&custom_title=My%20Coding%20Journey" width="100%" alt="Activity Graph">
-</div>
-
 ---
 
 ## 🔥 GitHub Streak & Achievements
