@@ -79,23 +79,6 @@ A passionate developer shaping my path — one commit, one idea at a time.
 
 ---
 
-## 🔥 GitHub Streak & Achievements
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OnoPUNPUN&theme=dark&hide_border=true&border_radius=15" alt="GitHub Streak">
-  
-  <br><br>
-  
-  <!-- Manga-style divider -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-  
-  <br>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=OnoPUNPUN&theme=darkhub&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies">
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
