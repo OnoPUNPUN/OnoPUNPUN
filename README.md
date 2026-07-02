@@ -37,7 +37,7 @@
 
 ---
 
-<img align="right" src="Images/cover.jpg" width="320" alt="Oyasumi Punpun">
+<img align="right" src="Images/small_punpun_animation.gif" width="280" alt="Oyasumi Punpun">
 
 ### About
 
@@ -116,9 +116,13 @@ Mobile App Developer and Teaching Assistant.
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=OnoPUNPUN&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&text_color=8b949e&icon_color=58a6ff&title_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats">
+  <a href="https://github.com/OnoPUNPUN">
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OnoPUNPUN&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&text_color=8b949e&icon_color=58a6ff&title_color=c9d1d9" alt="GitHub Stats">
+  </a>
   &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnoPUNPUN&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&text_color=8b949e&title_color=c9d1d9" alt="Top Languages">
+  <a href="https://github.com/OnoPUNPUN">
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OnoPUNPUN&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&text_color=8b949e&title_color=c9d1d9" alt="Top Languages">
+  </a>
 </div>
 
 <br>
