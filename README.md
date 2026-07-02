@@ -72,7 +72,7 @@ Mobile App Developer and Teaching Assistant.
   <tr>
     <td><b>Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" alt="Backend">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,aspnet,prisma&theme=dark" alt="Backend">
     </td>
   </tr>
   <tr>
