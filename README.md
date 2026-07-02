@@ -96,18 +96,6 @@ Focused on clean architecture, scalable state management, and delivering polishe
 
 <br>
 
-## Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| **New World Hive** | Multi-vendor e-commerce platform — shopping, storefront creation, order management |
-| **mChauffeur** | Premium chauffeur booking — airport transfers, ride scheduling, fare estimation |
-| **Medicine Mart** | B2B pharmaceutical marketplace — bulk ordering, inventory, secure checkout |
-| **DevBlogs** | Full-stack blog platform — Flutter + Node.js + Prisma + PostgreSQL |
-| **Hikari** | Manga reader app — 2,000+ users, vertical scroll & page-turn modes |
-
-<br>
-
 ## GitHub Stats
 
 <div align="center">
