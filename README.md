@@ -1,39 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Wasimul%20Bari%20Tonmoy&fontSize=36&fontColor=c9d1d9&animation=fadeIn&fontAlignY=34&desc=Mobile%20App%20Developer%20%7C%20Flutter%20%7C%20Full-Stack&descSize=16&descAlignY=55&descColor=8b949e" width="100%">
+<img src="Images/big_banner.jpg" width="100%" alt="Banner">
+
+<br><br>
+
+<img src="Images/PUNPUN.jpg" width="140" height="140" style="border-radius: 50%;" alt="Tonmoy">
+
+<br><br>
+
+### Wasimul Bari Tonmoy
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1500&color=8b949e&center=true&vCenter=true&width=380&lines=Mobile+App+Developer;Flutter+%7C+Full-Stack+%7C+Node.js;Clean+Architecture+Enthusiast" alt="Typing SVG">
+</a>
 
 <br>
 
 <a href="https://github.com/OnoPUNPUN">
-  <img src="https://img.shields.io/badge/OnoPUNPUN-0d1117?style=flat&logo=github&logoColor=c9d1d9" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat&logo=github&logoColor=c9d1d9" alt="GitHub">
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/wasimul-bari-tonmoy-453307369">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=0a66c2" alt="LinkedIn">
 </a>
-&nbsp;
 <a href="mailto:wasimulbaritonmoy@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=flat&logo=gmail&logoColor=ea4335" alt="Email">
+  <img src="https://img.shields.io/badge/Mail-0d1117?style=flat&logo=gmail&logoColor=ea4335" alt="Email">
 </a>
-&nbsp;
 <a href="https://www.credly.com/users/wasimul-bari-tonmoy">
   <img src="https://img.shields.io/badge/Credly-0d1117?style=flat&logo=credly&logoColor=ff6b00" alt="Credly">
 </a>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=OnoPUNPUN&label=visitors&color=161b22&style=flat&labelColor=0d1117" alt="Profile Views">
 
 </div>
 
-<br>
+---
 
-## About
+<img align="right" src="Images/cover.jpg" width="320" alt="Oyasumi Punpun">
 
-I build cross-platform mobile applications with Flutter and craft full-stack solutions with Node.js.  
-Focused on clean architecture, scalable state management, and delivering polished user experiences.
+### About
 
-<br>
+I build cross-platform mobile applications with Flutter and craft
+full-stack solutions with Node.js and Express.
+
+Focused on clean architecture, scalable state management,
+and delivering polished user experiences.
+
+Currently a CS undergraduate at AIUB, working as a
+Mobile App Developer and Teaching Assistant.
+
+<br clear="both">
+
+---
 
 ## Tech Stack
 
@@ -76,8 +95,6 @@ Focused on clean architecture, scalable state management, and delivering polishe
   </tr>
 </table>
 
-<br>
-
 <details>
 <summary><b>State Management & Architecture</b></summary>
 <br>
@@ -94,29 +111,20 @@ Focused on clean architecture, scalable state management, and delivering polishe
 
 </details>
 
-<br>
+---
 
 ## GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=OnoPUNPUN&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&text_color=8b949e&icon_color=58a6ff&title_color=c9d1d9&ring_color=58a6ff">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=OnoPUNPUN&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&text_color=8b949e&icon_color=58a6ff&title_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats">
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OnoPUNPUN&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&text_color=8b949e&title_color=c9d1d9">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnoPUNPUN&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&text_color=8b949e&title_color=c9d1d9" alt="Top Languages">
-  </picture>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=OnoPUNPUN&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&text_color=8b949e&icon_color=58a6ff&title_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats">
+  &nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnoPUNPUN&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&text_color=8b949e&title_color=c9d1d9" alt="Top Languages">
 </div>
 
 <br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=OnoPUNPUN&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=8b949e&dates=8b949e">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OnoPUNPUN&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=8b949e&dates=8b949e" alt="GitHub Streak">
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=OnoPUNPUN&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=8b949e&dates=8b949e" alt="GitHub Streak">
 </div>
 
 <br>
@@ -124,8 +132,6 @@ Focused on clean architecture, scalable state management, and delivering polishe
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OnoPUNPUN&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area_color=161b22&area=true&hide_border=true" width="95%" alt="Activity Graph">
 </div>
-
-<br>
 
 ---
 
