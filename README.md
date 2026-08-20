@@ -55,24 +55,23 @@ Mobile App Developer and Teaching Assistant.
 ---
 
 ## Tech Stack
-
 <table>
   <tr>
     <td><b>Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=dart,ts,js,python,java,cpp,c&theme=dark" alt="Languages">
+      <img src="https://skillicons.dev/icons?i=dart,go,python,java,cpp,c&theme=dark" alt="Languages">
     </td>
   </tr>
   <tr>
     <td><b>Mobile & Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=flutter,react&theme=dark" alt="Mobile & Frontend">
+      <img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Mobile & Frontend">
     </td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,prisma&theme=dark" alt="Backend">
+      <img src="https://skillicons.dev/icons?i=go,gin,dotnet&theme=dark" alt="Backend">
     </td>
   </tr>
   <tr>
@@ -94,21 +93,15 @@ Mobile App Developer and Teaching Assistant.
     </td>
   </tr>
 </table>
-
 <details>
 <summary><b>State Management & Architecture</b></summary>
 <br>
-
 `Riverpod` `Bloc` `Cubit` `Provider` `GetX` `Clean Architecture` `MVVM` `REST APIs` `JWT Auth`
-
 </details>
-
 <details>
 <summary><b>Services & Platforms</b></summary>
 <br>
-
 `Firebase` `Supabase` `Appwrite` `Cloudinary` `Hive` `Isar` `AdMob` `Swagger / OpenAPI`
-
 </details>
 
 ---
